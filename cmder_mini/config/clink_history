@@ -1,0 +1,14 @@
+|CTAG_1679234457_75098453_12380_0
+vagrant -v
+|d ..
+|s
+|d src
+|s
+|agrant up
+|agrant ssh
+cd ..
+cd src
+ls
+|agrant up
+vagrant up
+vagrant ssh
